@@ -1,0 +1,19 @@
+[Desktop Entry]
+Name=Xubuntu Package Installer
+Name[ar]=مثبّت حزم زوبنتو
+Name[pt]=Instalador de Pacotes Pardus
+Name[tr]=Pardus Paket Kurucu
+GenericName=Package Installer
+GenericName[pt]=Instalador de Pacotes
+GenericName[tr]=Paket Kurucu
+Comment=Install and view software packages
+Comment[pt]=Instalar e ver pacotes de software
+Comment[tr]=Yazılım paketlerini kur ve izle
+Exec=xubuntu-package-installer %f
+Icon=xubuntu-package-installer
+Terminal=false
+Type=Application
+Categories=System;
+MimeType=application/vnd.debian.binary-package;
+StartupNotify=true
+Keywords=package;apt;dpkg;install;deb
