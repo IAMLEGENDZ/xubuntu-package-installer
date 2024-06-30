@@ -128,7 +128,7 @@ msgstr "أَدرْ واعرضْ حزم .deb"
 #. Name Surname <example@examplemail.com>
 #: ui/MainWindow.glade:1227
 msgid "translator-credits"
-msgstr "حقوق-المترجم"
+msgstr "محمد بن قويدر <mbkasr@gmail.com>"
 
 #: src/MainWindow.py:75
 msgid "About Pardus Package Installer"
