@@ -14,7 +14,7 @@ Depends: ${misc:Depends},
          gir1.2-gtk-3.0,
          gir1.2-notify-0.7,
          python3-apt
-Description: Pardus Deb Package Manager
+Description: Xubuntu Deb Package Manager
  Simple tool to view and install local deb files
 Provides: xdebi
 Conflicts: xdebi
