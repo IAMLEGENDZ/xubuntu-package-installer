@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-06-30 01:35+0100\n"
+"POT-Creation-Date: 2024-06-29 10:49+0300\n"
 "PO-Revision-Date: 2024-06-29 21:00+0000\n"
 "Last-Translator: Mohamed Benkouider <mbkasr@gmail.com>\n"
 "Language-Team: Arabic \n"
@@ -19,70 +19,70 @@ msgstr ""
 
 #: ui/MainWindow.glade:11 ui/MainWindow.glade:959
 msgid "Info"
-msgstr ""
+msgstr "معلومات"
 
 #: ui/MainWindow.glade:12
 msgid "You cannot close the application while the process is continuing."
-msgstr "      ."
+msgstr "لا يمكنك إغلاق التطبيق أثناء استمرار المهمة."
 
 #: ui/MainWindow.glade:81
 msgid "Select File"
-msgstr " "
+msgstr "اِخترْ ملف"
 
 #: ui/MainWindow.glade:85
 msgid "Select"
-msgstr ""
+msgstr "اِخترْ"
 
 #: ui/MainWindow.glade:155
 msgid "Select a deb package to view. "
-msgstr " deb ."
+msgstr "اِخترْ حزمةdeb لعرضها."
 
 #: ui/MainWindow.glade:165 ui/MainWindow.glade:1174
 msgid "Open"
-msgstr ""
+msgstr "اِفتحْ"
 
 #: ui/MainWindow.glade:212
 msgid "Package Name"
-msgstr " "
+msgstr "اسم الحزمة"
 
 #: ui/MainWindow.glade:236
 msgid "version"
-msgstr ""
+msgstr "الإصدار"
 
 #: ui/MainWindow.glade:257
 msgid "short description"
-msgstr " "
+msgstr "تعريف مختصر"
 
 #: ui/MainWindow.glade:286
 msgid "<small><span weight='light'>Installed Version :</span></small>"
-msgstr "<small><span weight='light'>  :</span></small>"
+msgstr "<small><span weight='light'>الإصدار المثبّت :</span></small>"
 
 #: ui/MainWindow.glade:301
 msgid "<small><span weight='light'>Not installed</span></small>"
-msgstr "<small><span weight='light'> </span></small>"
+msgstr "<small><span weight='light'>ليس مثبّتاً</span></small>"
 
 #: ui/MainWindow.glade:342 src/MainWindow.py:197 src/MainWindow.py:208
 #: src/MainWindow.py:221 src/MainWindow.py:573 src/MainWindow.py:598
 #: src/MainWindow.py:653 src/MainWindow.py:664
 msgid "Install"
-msgstr ""
+msgstr "ثبِّتْ"
 
 #: ui/MainWindow.glade:359 src/MainWindow.py:198 src/MainWindow.py:209
 #: src/MainWindow.py:222 src/MainWindow.py:654 src/MainWindow.py:665
 msgid "Uninstall"
-msgstr " "
+msgstr "أَلغِ التثبيت"
 
 #: ui/MainWindow.glade:376
 msgid "Details"
-msgstr ""
+msgstr "التفاصيل"
 
 #: ui/MainWindow.glade:415
 msgid "Done"
-msgstr ""
+msgstr "تم"
 
 #: ui/MainWindow.glade:487
 msgid "Your system has broken dependencies."
-msgstr "    "
+msgstr "نظامك يحتوي على اعتماديات فاسدة"
 
 #: ui/MainWindow.glade:506
 msgid ""
@@ -91,14 +91,14 @@ msgid ""
 "<b>sudo apt install --fix-broken</b>\n"
 "in a terminal window."
 msgstr ""
-"         .\n"
-" \n"
+"هذا التطبيق لا يمكنه المتابعة ما لم يتم تصحيح هذا.\n"
+"لتصحيحه شغّل\n"
 "<b>sudo apt install --fix-broken</b>\n"
-"  ."
+"في نافذة الطرفية."
 
 #: ui/MainWindow.glade:598
 msgid "The .deb package is corrupt."
-msgstr "  .deb ."
+msgstr "حزمة الـ .deb فاسدة."
 
 #: ui/MainWindow.glade:727 ui/MainWindow.glade:768 ui/MainWindow.glade:809
 #: ui/MainWindow.glade:852 ui/MainWindow.glade:893 ui/MainWindow.glade:934
@@ -107,132 +107,132 @@ msgstr "-"
 
 #: ui/MainWindow.glade:990
 msgid "Dependency List"
-msgstr " "
+msgstr "لائحة الاعتماديات"
 
 #: ui/MainWindow.glade:1029
 msgid "Packages to install"
-msgstr " "
+msgstr "الحزم للتثبيت"
 
 #: ui/MainWindow.glade:1070
 msgid "Dependencies"
-msgstr ""
+msgstr "الاعتماديات"
 
 #: ui/MainWindow.glade:1165 src/MainWindow.py:71
-msgid "Xubuntu Package Installer"
-msgstr "  "
+msgid "Pardus Package Installer"
+msgstr "مثبت حزم زوبنتو"
 
 #: ui/MainWindow.glade:1224
 msgid "Manage and view .deb packages"
-msgstr "   .deb"
+msgstr "أَدرْ واعرضْ حزم .deb"
 
 #. Name Surname <example@examplemail.com>
 #: ui/MainWindow.glade:1227
 msgid "translator-credits"
-msgstr "-"
+msgstr "حقوق-المترجم"
 
 #: src/MainWindow.py:75
-msgid "About Xubuntu Package Installer"
-msgstr "   "
+msgid "About Pardus Package Installer"
+msgstr "حول مثبت حزم زوبنتو"
 
 #: src/MainWindow.py:170 src/MainWindow.py:174
 msgid "Installed Version :"
-msgstr "  :"
+msgstr "الإصدار المثبّت :"
 
 #: src/MainWindow.py:176 src/MainWindow.py:629
 msgid "Not installed"
-msgstr " "
+msgstr "ليس مثبّت"
 
 #: src/MainWindow.py:425
 msgid " upgraded"
-msgstr "  "
+msgstr " تم تحديثها"
 
 #: src/MainWindow.py:427
 msgid " installed"
-msgstr "  "
+msgstr " تم تثبيتها"
 
 #: src/MainWindow.py:446
 msgid "Package Architecture Error"
-msgstr "   "
+msgstr "خطأ في معمارية الحزمة"
 
 #: src/MainWindow.py:446
 msgid "System"
-msgstr ""
+msgstr "النظام"
 
 #: src/MainWindow.py:446
 msgid "Package"
-msgstr ""
+msgstr "الحزمة"
 
 #: src/MainWindow.py:458
 msgid " uninstalled"
-msgstr "   "
+msgstr " تم إلغاء تثبيتها"
 
 #: src/MainWindow.py:470
 msgid " reinstalled"
-msgstr "   "
+msgstr " تم إعادة تثبيتها"
 
 #: src/MainWindow.py:482
 msgid " downgraded"
-msgstr "   "
+msgstr "تم تخفيض إصدارها "
 
 #: src/MainWindow.py:499
 msgid "Installing"
-msgstr " "
+msgstr "يتم التثبيت"
 
 #: src/MainWindow.py:503
 msgid "Downgrading"
-msgstr "  "
+msgstr "يتم تخفيض الإصدار"
 
 #: src/MainWindow.py:508
 msgid "Reinstalling"
-msgstr "  "
+msgstr "تتم إعادة التثبيت"
 
 #: src/MainWindow.py:513
 msgid "Upgrading"
-msgstr " "
+msgstr "يتم التحديث"
 
 #: src/MainWindow.py:518
 msgid "Uninstalling"
-msgstr "  "
+msgstr "يتم إلغاء التثبيت"
 
 #: src/MainWindow.py:562
 msgid "Show Details"
-msgstr " "
+msgstr "اِعرضْ التفاصيل"
 
 #: src/MainWindow.py:565
 msgid "Hide Details"
-msgstr " "
+msgstr "أخفِ التفاصيل"
 
 #: src/MainWindow.py:578 src/MainWindow.py:603
 msgid "Downgrade"
-msgstr " "
+msgstr "خفّض الإصدار"
 
 #: src/MainWindow.py:583 src/MainWindow.py:608
 msgid "Reinstall"
-msgstr " "
+msgstr "أعدْ التثبيت"
 
 #: src/MainWindow.py:588 src/MainWindow.py:613
 msgid "Upgrade"
-msgstr ""
+msgstr "حدّثْ"
 
 #: src/MainWindow.py:595
 msgid "Error !"
-msgstr " !"
+msgstr "خطأ !"
 
 #: src/MainWindow.py:739
 msgid "Not Completed !"
-msgstr "  !"
+msgstr "لم يكتمل !"
 
 #: src/MainWindow.py:742 src/MainWindow.py:762
 msgid "<b><span color='red'>Connection Error !</span></b>"
-msgstr "<b><span color='red'>   !</span></b>"
+msgstr "<b><span color='red'>خطأ في الاتصال !</span></b>"
 
 #: src/MainWindow.py:744 src/MainWindow.py:764
 msgid "<b><span color='red'>Dpkg Lock Error !</span></b>"
-msgstr "<b><span color='red'>  Dpkg !</span></b>"
+msgstr "<b><span color='red'>خطأ قفل Dpkg !</span></b>"
 
 #: src/MainWindow.py:746 src/MainWindow.py:766
 msgid "<b><span color='red'>Dpkg Interrupt Error !</span></b>"
-msgstr "<b><span color='red'>  Dpkg !</span></b>"
+msgstr "<b><span color='red'>خطأ مقاطعة Dpkg !</span></b>"
 
 #: src/MainWindow.py:774
 msgid ""
@@ -240,6 +240,6 @@ msgid ""
 "Please close the other application\n"
 "e.g. 'Update Manager', 'aptitude' or 'Synaptic' first."
 msgstr ""
-"          .\n"
-"   \n"
-": ' ', 'aptitude'  '' ."
+"مدير حزم واحد فقط يمكنه تشغيل هذه العملية في الوقت نفسه.\n"
+"الرجاء أغلقْ التطبيق الآخر\n"
+"مثل: 'محدث البرمجيات', 'aptitude' أو 'سينابتِك' أوّلاً."
