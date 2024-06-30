@@ -1,0 +1,245 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-06-30 01:35+0100\n"
+"PO-Revision-Date: 2024-06-29 21:00+0000\n"
+"Last-Translator: Mohamed Benkouider <mbkasr@gmail.com>\n"
+"Language-Team: Arabic \n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ui/MainWindow.glade:11 ui/MainWindow.glade:959
+msgid "Info"
+msgstr ""
+
+#: ui/MainWindow.glade:12
+msgid "You cannot close the application while the process is continuing."
+msgstr "      ."
+
+#: ui/MainWindow.glade:81
+msgid "Select File"
+msgstr " "
+
+#: ui/MainWindow.glade:85
+msgid "Select"
+msgstr ""
+
+#: ui/MainWindow.glade:155
+msgid "Select a deb package to view. "
+msgstr " deb ."
+
+#: ui/MainWindow.glade:165 ui/MainWindow.glade:1174
+msgid "Open"
+msgstr ""
+
+#: ui/MainWindow.glade:212
+msgid "Package Name"
+msgstr " "
+
+#: ui/MainWindow.glade:236
+msgid "version"
+msgstr ""
+
+#: ui/MainWindow.glade:257
+msgid "short description"
+msgstr " "
+
+#: ui/MainWindow.glade:286
+msgid "<small><span weight='light'>Installed Version :</span></small>"
+msgstr "<small><span weight='light'>  :</span></small>"
+
+#: ui/MainWindow.glade:301
+msgid "<small><span weight='light'>Not installed</span></small>"
+msgstr "<small><span weight='light'> </span></small>"
+
+#: ui/MainWindow.glade:342 src/MainWindow.py:197 src/MainWindow.py:208
+#: src/MainWindow.py:221 src/MainWindow.py:573 src/MainWindow.py:598
+#: src/MainWindow.py:653 src/MainWindow.py:664
+msgid "Install"
+msgstr ""
+
+#: ui/MainWindow.glade:359 src/MainWindow.py:198 src/MainWindow.py:209
+#: src/MainWindow.py:222 src/MainWindow.py:654 src/MainWindow.py:665
+msgid "Uninstall"
+msgstr " "
+
+#: ui/MainWindow.glade:376
+msgid "Details"
+msgstr ""
+
+#: ui/MainWindow.glade:415
+msgid "Done"
+msgstr ""
+
+#: ui/MainWindow.glade:487
+msgid "Your system has broken dependencies."
+msgstr "    "
+
+#: ui/MainWindow.glade:506
+msgid ""
+"This application can not continue until this is fixed.\n"
+"To fix it run\n"
+"<b>sudo apt install --fix-broken</b>\n"
+"in a terminal window."
+msgstr ""
+"         .\n"
+" \n"
+"<b>sudo apt install --fix-broken</b>\n"
+"  ."
+
+#: ui/MainWindow.glade:598
+msgid "The .deb package is corrupt."
+msgstr "  .deb ."
+
+#: ui/MainWindow.glade:727 ui/MainWindow.glade:768 ui/MainWindow.glade:809
+#: ui/MainWindow.glade:852 ui/MainWindow.glade:893 ui/MainWindow.glade:934
+msgid "-"
+msgstr "-"
+
+#: ui/MainWindow.glade:990
+msgid "Dependency List"
+msgstr " "
+
+#: ui/MainWindow.glade:1029
+msgid "Packages to install"
+msgstr " "
+
+#: ui/MainWindow.glade:1070
+msgid "Dependencies"
+msgstr ""
+
+#: ui/MainWindow.glade:1165 src/MainWindow.py:71
+msgid "Xubuntu Package Installer"
+msgstr "  "
+
+#: ui/MainWindow.glade:1224
+msgid "Manage and view .deb packages"
+msgstr "   .deb"
+
+#. Name Surname <example@examplemail.com>
+#: ui/MainWindow.glade:1227
+msgid "translator-credits"
+msgstr "-"
+
+#: src/MainWindow.py:75
+msgid "About Xubuntu Package Installer"
+msgstr "   "
+
+#: src/MainWindow.py:170 src/MainWindow.py:174
+msgid "Installed Version :"
+msgstr "  :"
+
+#: src/MainWindow.py:176 src/MainWindow.py:629
+msgid "Not installed"
+msgstr " "
+
+#: src/MainWindow.py:425
+msgid " upgraded"
+msgstr "  "
+
+#: src/MainWindow.py:427
+msgid " installed"
+msgstr "  "
+
+#: src/MainWindow.py:446
+msgid "Package Architecture Error"
+msgstr "   "
+
+#: src/MainWindow.py:446
+msgid "System"
+msgstr ""
+
+#: src/MainWindow.py:446
+msgid "Package"
+msgstr ""
+
+#: src/MainWindow.py:458
+msgid " uninstalled"
+msgstr "   "
+
+#: src/MainWindow.py:470
+msgid " reinstalled"
+msgstr "   "
+
+#: src/MainWindow.py:482
+msgid " downgraded"
+msgstr "   "
+
+#: src/MainWindow.py:499
+msgid "Installing"
+msgstr " "
+
+#: src/MainWindow.py:503
+msgid "Downgrading"
+msgstr "  "
+
+#: src/MainWindow.py:508
+msgid "Reinstalling"
+msgstr "  "
+
+#: src/MainWindow.py:513
+msgid "Upgrading"
+msgstr " "
+
+#: src/MainWindow.py:518
+msgid "Uninstalling"
+msgstr "  "
+
+#: src/MainWindow.py:562
+msgid "Show Details"
+msgstr " "
+
+#: src/MainWindow.py:565
+msgid "Hide Details"
+msgstr " "
+
+#: src/MainWindow.py:578 src/MainWindow.py:603
+msgid "Downgrade"
+msgstr " "
+
+#: src/MainWindow.py:583 src/MainWindow.py:608
+msgid "Reinstall"
+msgstr " "
+
+#: src/MainWindow.py:588 src/MainWindow.py:613
+msgid "Upgrade"
+msgstr ""
+
+#: src/MainWindow.py:595
+msgid "Error !"
+msgstr " !"
+
+#: src/MainWindow.py:739
+msgid "Not Completed !"
+msgstr "  !"
+
+#: src/MainWindow.py:742 src/MainWindow.py:762
+msgid "<b><span color='red'>Connection Error !</span></b>"
+msgstr "<b><span color='red'>   !</span></b>"
+
+#: src/MainWindow.py:744 src/MainWindow.py:764
+msgid "<b><span color='red'>Dpkg Lock Error !</span></b>"
+msgstr "<b><span color='red'>  Dpkg !</span></b>"
+
+#: src/MainWindow.py:746 src/MainWindow.py:766
+msgid "<b><span color='red'>Dpkg Interrupt Error !</span></b>"
+msgstr "<b><span color='red'>  Dpkg !</span></b>"
+
+#: src/MainWindow.py:774
+msgid ""
+"Only one software management tool is allowed to run at the same time.\n"
+"Please close the other application\n"
+"e.g. 'Update Manager', 'aptitude' or 'Synaptic' first."
+msgstr ""
+"          .\n"
+"   \n"
+": ' ', 'aptitude'  '' ."
