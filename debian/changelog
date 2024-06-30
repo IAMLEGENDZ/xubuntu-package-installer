@@ -1,0 +1,12 @@
+xubuntu-package-installer (1.0.0) unstable; urgency=medium
+
+  * Add broken deb package control
+  * Update about website
+  * Update pot file
+  * Update Turkish translations
+  * Update copyright
+  * Update debian standards
+  * Update app icon
+
+ -- Mohamed Benkouider <mbkasr@gmail.com>  Sun, 30 Jun 2024 19:38:03 +0300
+
