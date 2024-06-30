@@ -129,7 +129,7 @@ msgstr "Deb paketlerini yönetin ve görüntüleyin"
 #. Name Surname <example@examplemail.com>
 #: ui/MainWindow.glade:1227
 msgid "translator-credits"
-msgstr "translator-credits"
+msgstr "Fatih Altun <fatih.altun@pardus.org.tr>"
 
 #: src/MainWindow.py:75
 msgid "About Xubuntu Package Installer"
