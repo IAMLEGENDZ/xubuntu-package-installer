@@ -19,7 +19,7 @@ gir1.2-glib-2.0 gir1.2-gtk-3.0 gir1.2-notify-0.7 python3-apt
 ```
 Clone the repository
 ```bash
-git clone https://github.com/xubuntu/xubuntu-package-installer.git ~/xubuntu-package-installer
+git clone https://github.com/IAMLEGENDZ/xubuntu-package-installer.git ~/xubuntu-package-installer
 ```
 Run application
 ```bash
