@@ -36,14 +36,13 @@ gbp buildpackage --git-export-dir=/tmp/build/xubuntu-package-installer -us -uc
 
 ### **Screenshots**
 
-![Xubuntu Package Installer 1](screenshots/Xubuntu-package-installer-1.png)
+![Xubuntu Package Installer 1](screenshots/xubuntu-package-installer-1.png)
 
-![Xubuntu Package Installer 2](screenshots/Xubuntu-package-installer-2.png)
+![Xubuntu Package Installer 2](screenshots/xubuntu-package-installer-2.png)
 
-![Xubuntu Package Installer 3](screenshots/Xubuntu-package-installer-3.png)
+![Xubuntu Package Installer 3](screenshots/xubuntu-package-installer-3.png)
 
-![Xubuntu Package Installer 4](screenshots/Xubuntu-package-installer-4.png)
+![Xubuntu Package Installer 4](screenshots/xubuntu-package-installer-4.png)
 
-![Xubuntu Package Installer 5](screenshots/Xubuntu-package-installer-5.png)
+![Xubuntu Package Installer 5](screenshots/xubuntu-package-installer-5.png)
 
-![Xubuntu Package Installer 6](screenshots/Xubuntu-package-installer-6.png)
