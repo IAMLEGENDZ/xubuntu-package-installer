@@ -2,7 +2,7 @@
 
 Xubuntu Package Installer is a application for install, uninstall or view deb packages.
 
-It is currently a work in progress. Maintenance is done by <a href="https://www.xubuntu.org/">xubuntu</a> team.
+It is currently a work in progress. Maintenance is done by me.
 
 ## **Dependencies**
 
